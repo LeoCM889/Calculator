@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "watch": true,
+        "module": "ESNext",
+        "lib": ["dom", "ES2022"],
+        "outDir": "./public",
+        "rootDir": "./src",
+        "esModuleInterop": true,
+        "forceConsistentCasingInFileNames": true,
+    },
+    "include": ["src"]
+}
